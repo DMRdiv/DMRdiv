@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**DMRdiv/DMRdiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="font-family: Arial, sans-serif; color: #333;">
+<h2 style="font-size: 24px; color: #1F2937;">Hi there, I'm David!</h2>
+<h4>Undergrad CS Studnet @WPI | Full Stack Developer</h4>
+<div style="margin-bottom: 20px;">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DMRdiv.DMRdiv&" alt="Visitor Badge" style="border-radius: 8px;" />
+</div>
+<section style="margin-bottom: 20px;">
+<h3 style="font-size: 20px; color: #1F2937;">Technologies</h3>
+<div align="left" style="display: flex; flex-wrap: wrap;">
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" height="40" style="border-radius: 5px;" />
+<img width="12">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" height="40" style="border-radius: 5px;" />
+<img width="12">
+
+</div>
+</section>
+<section style="margin-bottom: 20px;">
+<h3 style="font-size: 20px; color: #1F2937;">Social Media</h3>
+<div style="display: flex; flex-wrap: wrap;">
+
+<a href="https://www.linkedin.com/in/david-ramos-32b792288/" target="_blank" style="margin-right: 15px;">
+<img src="https://raw.githubusercontent.com/poyrazavsever/readme-maker/9f115e8a71eadd6caeab48174a2e91b08a11ba03/public/SocialMedia/linkedin/default.svg" alt="linkedin logo" height="40" width="40" style="border-radius: 5px;" /></a><img width="12">
+</div>
+</section>
+</div>
